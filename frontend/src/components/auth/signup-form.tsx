@@ -90,9 +90,9 @@ const SignupForm: React.FC = () => {
   return (
     <Card className="relative shadow-2xl">
       <CardHeader>
-        <CardTitle className="text-2xl">Login</CardTitle>
+        <CardTitle className="text-2xl">Melodyverse SignUp</CardTitle>
         <CardDescription>
-          Enter your email and password to login
+          Enter your details below to signup for a melodyverse account.
         </CardDescription>
       </CardHeader>
       <CardContent>
