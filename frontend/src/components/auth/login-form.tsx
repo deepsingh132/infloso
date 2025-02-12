@@ -67,8 +67,8 @@ const LoginForm: React.FC = () => {
   return (
     <Card className="relative shadow-2xl">
       <CardHeader>
-        <CardTitle className="text-2xl">Login</CardTitle>
-        <CardDescription>Enter your email and password to login</CardDescription>
+        <CardTitle className="text-2xl">Melodyverse Login</CardTitle>
+        <CardDescription>Enter your email and password to login to melodyverse</CardDescription>
       </CardHeader>
       <CardContent>
     {/* <div className="max-w-md mx-auto"> */}
